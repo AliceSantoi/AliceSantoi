@@ -1,20 +1,14 @@
 ### Opa 🖖
-
-### Preferência em linguagens e ambiente de trabalho
-
-Atualmente a linguagem de programação que tenho mais familiaridade é:
-
+Atualmente sou graduanda do curso bacharelado em tecnologia da informação pela UFERSA. 
+### Linguagens:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   
- As linguagens de marcação que mais tenho interesse são:
+### Marcação:
 
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Ambientes de desenvolvimento
-
-Prefiro, sempre que possível, utilizar o terminal para minhas atividades, uso em especial o ![Gnu Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white).
-
-Estou utilizando o ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) como IDE principal, além do ![Visual Studio Code](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) para controle de versionamento. 
+ ![Gnu Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 
 
 

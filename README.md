@@ -19,11 +19,6 @@ Prefiro, sempre que possível, utilizar o terminal para minhas atividades, uso e
 
 Estou utilizando o ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) como IDE principal, além do ![Visual Studio Code](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) para controle de versionamento. 
 
- 
-
-### Projetos atuais:
-
-+ Projeto zé-jacaré
 
 
 ### Estatísticas:

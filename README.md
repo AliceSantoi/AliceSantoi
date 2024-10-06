@@ -1,7 +1,4 @@
-### Olá, meu nome é Alice
-👋 Bem-vindo(a), aqui você encontrará os primeiros projetos que estou criando enquanto aprendo e pratico diferentes linguagens e tecnologias. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.  💻✨
-
-Atualmente sou aluna em BTI no campus pau dos ferros.
+### Opa 🖖
 
 ### Preferência em linguagens e ambiente de trabalho
 
